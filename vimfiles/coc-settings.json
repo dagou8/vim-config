@@ -1,0 +1,14 @@
+{
+  "languageserver": {
+    "intelephense": {
+      "command": "intelephense",
+      "args": ["--stdio"],
+      "filetypes": ["php"],
+      "initializationOptions": {
+        "storagePath": "E:\\project"
+      }
+    }
+  },
+  "coc.preferences.extensionUpdateCheck": "daily"
+}
+
